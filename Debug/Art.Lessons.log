@@ -1,2 +1,15 @@
 ﻿  Art.Lessons.cpp
-  Art.Lessons.vcxproj -> C:\Users\Artyom\source\repos\Art.Lessons\Debug\Art.Lessons.exe
+  Foo_Func.cpp
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(3,10): error C2039: "string": не является членом "std".
+C:\Users\Artyom\source\repos\Art.Lessons\predefined C++ types (compiler internal)(340): message : см. объявление "std"
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(3,17): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(3,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(7,10): error C2039: "string": не является членом "std".
+C:\Users\Artyom\source\repos\Art.Lessons\predefined C++ types (compiler internal)(340): message : см. объявление "std"
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(7,17): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(7,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(8,10): error C2039: "string": не является членом "std".
+C:\Users\Artyom\source\repos\Art.Lessons\predefined C++ types (compiler internal)(340): message : см. объявление "std"
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(8,17): error C3646: surname: неизвестный спецификатор переопределения
+C:\Users\Artyom\source\repos\Art.Lessons\Structs.h(8,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  Создание кода...

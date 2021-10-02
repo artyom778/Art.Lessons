@@ -1,10 +1,14 @@
-﻿// Art.Lessons.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
-#include <iostream>
+﻿#include "iostream"
 using namespace std;
+#include "Foo_Func.h"
+#include "Structs.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    Animals name;
+    name.age = 25;
+    std::cout << "Age:=" << name.age<<"\n";
+    Foo();
+    return 0;
 }
